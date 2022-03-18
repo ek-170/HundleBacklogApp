@@ -1,4 +1,4 @@
-package com.muramoto.extract.logics;
+package com.muramoto.extract.config;
 
 import com.nulabinc.backlog4j.BacklogAPIException;
 import java.io.InputStream;

@@ -1,4 +1,4 @@
-package com.muramoto.extract.logics;
+package com.muramoto.extract.util;
 
 import org.apache.poi.ss.usermodel.*;
 import java.util.List;

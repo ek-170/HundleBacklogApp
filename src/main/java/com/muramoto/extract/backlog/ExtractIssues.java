@@ -1,6 +1,8 @@
-package com.muramoto.extract.logics;
+package com.muramoto.extract.backlog;
 
 import java.io.File;
+
+import com.muramoto.extract.util.PathUtil;
 import com.nulabinc.backlog4j.BacklogClient;
 import com.nulabinc.backlog4j.Issue;
 import com.nulabinc.backlog4j.api.option.GetIssuesParams;

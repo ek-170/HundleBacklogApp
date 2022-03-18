@@ -1,4 +1,4 @@
-package com.muramoto.extract.logics;
+package com.muramoto.extract.util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

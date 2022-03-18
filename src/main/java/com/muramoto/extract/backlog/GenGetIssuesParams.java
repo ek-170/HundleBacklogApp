@@ -1,7 +1,8 @@
-package com.muramoto.extract.logics;
+package com.muramoto.extract.backlog;
 
 import com.nulabinc.backlog4j.api.option.GetIssuesParams;
 import com.nulabinc.backlog4j.api.option.GetIssuesParams.SortKey;
+import com.muramoto.extract.config.ReadProps;
 import com.nulabinc.backlog4j.BacklogAPIException;
 import java.util.List;
 import java.util.Map;

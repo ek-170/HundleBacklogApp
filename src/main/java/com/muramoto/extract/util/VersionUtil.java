@@ -1,4 +1,4 @@
-package com.muramoto.extract.logics;
+package com.muramoto.extract.util;
 
 import com.nulabinc.backlog4j.Version;
 import java.util.List;

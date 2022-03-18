@@ -1,9 +1,13 @@
-package com.muramoto.extract.logics;
+package com.muramoto.extract.backlog;
 
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Map;
 import java.util.LinkedHashMap;
+
+import com.muramoto.extract.util.DateUtil;
+import com.muramoto.extract.util.MileStoneUtil;
+import com.muramoto.extract.util.VersionUtil;
 import com.nulabinc.backlog4j.Issue;
 
 public class ParseIssue {

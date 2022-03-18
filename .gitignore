@@ -1,0 +1,7 @@
+target/
+.vscode/
+.settings/
+HundleBacklogApp_sample/
+.classpath
+.project
+dependency-reduced-pom.xml

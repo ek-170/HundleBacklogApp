@@ -1,7 +1,8 @@
-package com.muramoto.extract.logics;
+package com.muramoto.extract.backlog;
 
 import com.nulabinc.backlog4j.BacklogClient;
 import com.nulabinc.backlog4j.BacklogClientImpl;
+import com.muramoto.extract.config.ReadProps;
 import com.nulabinc.backlog4j.BacklogAPIException;
 import com.nulabinc.backlog4j.conf.*;
 import java.util.Map;
