@@ -7,7 +7,7 @@ import com.nulabinc.backlog4j.BacklogAPIException;
 
 public class FileUtil {
 
-    public static String checkExixtSameFileName(String path, String extension) {
+    public static String checkExistSameFileName(String path, String extension) {
         File f = new File(path + extension);
 
         for (int i = 1; f.exists(); i++) {
